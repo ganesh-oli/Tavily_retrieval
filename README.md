@@ -1,0 +1,1 @@
+In this project, I learned to integrate Tavily and Google API keys to fetch and display informations as per the user queries. Using Streamlit, I created an interactive web interface where users can input queries and receive real-time responses.
